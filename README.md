@@ -118,7 +118,8 @@ Excel Export
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/citymall-product-scraper.git
+#git clone https://github.com/yourusername/citymall-product-scraper.git
+https://github.com/chawsususoe0409/CityMall_webscrapping
 ```
 
 ### Navigate to Project Folder
